@@ -1,0 +1,1 @@
+Hello, if you're here hopefully you got a badge. It was nice meeting you, good luck with the puzzle. The original code is provided so you can feel safe flashing it with random stuff while knowing you can always go back to the factory defaults.
